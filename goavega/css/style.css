@@ -1,0 +1,36 @@
+body{
+    background-color: orange;
+}
+
+h3{
+    color:orangered;
+}
+
+img{ 
+    
+    display: block;
+    margin-left:auto;
+    margin-right:auto ;
+}
+
+
+h1 {
+    font-style: italic;
+    text-align:center;
+  }
+  
+  
+  h3 {
+    text-align:right;
+  }
+
+  table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+
+ .circular{
+     border-radius: 100%;
+    
+ }
+  

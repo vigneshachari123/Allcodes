@@ -1,0 +1,62 @@
+#title{
+    background-color:#0BE2ED;
+    ;
+}
+
+h1{
+    font-family: "Montserrat-Thin 100 Italic";
+    margin-top: 100px;
+    font-size: 5rem;
+    line-height:2
+    ;
+}
+.navbar{
+    padding: 2rem;
+}
+.navbar-brand{
+    font-size:3rem;
+
+}
+.nav-item{
+    font-size: 3rem;
+    padding: 0 18px;
+}
+
+#features{
+    font-size: 3rem;
+    background-color:#0BE2ED;
+padding: 5% 12%;
+}
+h3{
+    font-size: 5rem;
+}
+p{
+color: #818C8C;
+    font-family: cursive;
+}
+.features-box {
+    text-align: center;
+}
+h2{
+    font-size: 3rem;
+    font-family: cursive;
+}
+
+.btn{
+    height: 5rem;
+}
+#part2{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(10, 193, 234);
+    padding: 7% 15%;
+}
+#part2image{
+    height: 30rem;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    text-align: center;
+    background-color: rgb(10, 193, 234);
+}
